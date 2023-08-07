@@ -1,1 +1,8 @@
 we can use codespace instead of code editor
+
+HTML stands for HyperTtext Markup language and is a foundational technology for building websites, it is used to define the structure of the web page
+
+HTML elements are defined by a series of tags
+NOTE: opening tags content and closing tags together is known as HTML elements, some of them are self closing tag
+
+flow - define  how block elements and inline elements are rendered on a page
